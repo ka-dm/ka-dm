@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a data engineer<br>🌱 I’m currently learning Computer Science<br>⚡ Fun fact: I love running
+🔭 I’m currently working as a Odoo developer<br>🌱 I’m currently learning Computer Science<br>⚡ Fun fact: I love running
 
 
 ## 🌐 Socials:
