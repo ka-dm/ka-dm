@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/363bacaa-fd1a-4162-9241-3756f9165897)
+
 # 💫 About Me:
 🔭 I’m currently working as a Odoo developer<br>
 
